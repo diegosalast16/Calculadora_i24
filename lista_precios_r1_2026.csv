@@ -43,13 +43,13 @@ Alquiler 30 Simples Suscrip,30,0,0,10696,5390,6252.4,-,-,-,-,-,-
 Alquiler 50 Simples Suscrip,50,0,0,10697,6773,7856.68,-,-,-,-,-,-
 Alquiler 100 Simples Suscrip,100,0,0,10698,10290,11936.4,-,-,-,-,-,-
 10 Avisos Simples Combo Low TXN Mens,10,0,0,10724,2273,2636.68,-,-,-,-,-,-
-Aviso Destacado Combo ZonaDemand,0,1,0,20151,4193.2,4864.11,20157,25159.2,29184.67,20163,50318.4,58369.34
+Aviso Destacado Combo ZonaDemand,0,1,0,20151,3430.8,4864.11,20157,25159.2,29184.67,20163,50318.4,58369.34
 5 Avisos Destacado Combo ZonaDemand,0,5,0,20152,5445,6316.2,20158,32670,37897.2,20164,65340,75794.4
 10 Avisos Destacado Combo ZonaDemand,0,10,0,20153,10010,11611.6,20159,60060,69669.6,20165,120120,139339.2
 25 Avisos Destacado Combo ZonaDemand,0,25,0,20154,20900,24244,20160,125400,145464,20166,250800,290928
 50 Avisos Destacado Combo ZonaDemand,0,50,0,20155,30918.8,35865.81,20161,185512.8,215194.85,20167,371025.6,430389.7
 100 Avisos Destacado Combo ZonaDemand,0,100,0,20156,47537.6,55143.62,20162,285225.6,330861.7,20168,570451.2,661723.39
-Aviso Superdestacado Combo ZonaDemand,0,0,1,20169,5781.6,6706.66,20175,34689.6,40239.94,20181,69379.2,80479.87
+Aviso Superdestacado Combo ZonaDemand,0,0,1,20169,4730.4,6706.66,20175,34689.6,40239.94,20181,69379.2,80479.87
 5 Avisos Superdestacado Combo ZonaDemand,0,0,5,20170,10890,12632.4,20176,65340,75794.4,20182,130680,151588.8
 10 Avisos Superdestacado Combo ZonaDemand,0,0,10,20171,20109.1,23326.56,20177,120654.6,139959.34,20183,241309.2,279918.67
 25 Avisos Superdestacado Combo ZonaDemand,0,0,25,20172,41869.3,48568.39,20178,251215.8,291410.33,20184,502431.6,582820.66
@@ -59,4 +59,5 @@ Pack 10 Esencial_5SS+5S Combo Mensual,5,0,0,20762,2721.6,3157.06,-,-,-,-,-,-
 Pack 15 Esencial_10SS+5S Combo Mensual,10,0,0,20763,3351.6,3887.86,-,-,-,-,-,-
 Pack 30 Esencial_20SS+10S Combo Mensual,10,0,0,20764,5717,6631.72,-,-,-,-,-,-
 300 Avisos Subsimple Combo Mensual,0,0,0,8849,15000,17400,-,-,-,-,-,-
+
 Pack 50 Esencial_35SS+15S Combo Mensual,15,0,0,20765,7010,8131.6,-,-,-,-,-,-
